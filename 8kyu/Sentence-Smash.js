@@ -5,5 +5,5 @@
 
 //my solution
 function smash(words) {
-    return words.join(' ');
-};
+	return words.join(" ");
+}

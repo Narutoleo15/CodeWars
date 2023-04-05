@@ -7,5 +7,5 @@
 //my solution
 
 function repeatStr(n, s) {
-    return s.repeat(n);
+	return s.repeat(n);
 }

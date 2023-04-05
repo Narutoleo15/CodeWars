@@ -3,12 +3,12 @@
 // Example: n = 5 -- > [5, 4, 3, 2, 1]
 
 //my solution
-const reverseSeq = n => {
-    let arr = []
-    for (let i = 1; i <= n; i++) {
-        arr.unshift(i)
-    }
-    return arr;
+const reverseSeq = (n) => {
+	let arr = [];
+	for (let i = 1; i <= n; i++) {
+		arr.unshift(i);
+	}
+	return arr;
 };
 
 // const reverseSeq = n => {
